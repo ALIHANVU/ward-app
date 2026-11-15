@@ -34,10 +34,6 @@
 **Quran video editor**
 - Create short videos with ayat, recitation, translations and backgrounds — ready to share
 
-**Design**
-- Glass interface with light and dark themes
-- Optional Liquid Glass effects for capable phones
-
 ## Install
 
 1. Open [Releases](https://github.com/ALIHANVU/ward-app/releases) and download the latest `Ward-*.apk`.
