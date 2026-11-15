@@ -48,7 +48,3 @@ Requires Android 7.0 or newer on a 64-bit phone.
 ## Contact
 
 News and feedback on Telegram: [t.me/ward_appp](https://t.me/ward_appp)
-
----
-
-This repository contains app builds only. The source code is private.
